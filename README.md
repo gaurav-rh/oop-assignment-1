@@ -1,5 +1,5 @@
 # oop-assignment-1
-## This project is a modified implementation of Queue Using ListBuffered . It has two classes, one Trait and one Object.
+## This project is a modified implementation of Queue Using ListBuffer. It has two classes, one Trait and one Object.
 
 **Queue**
 This trait has one method and one abstract method.
@@ -13,7 +13,7 @@ This trait has one method and one abstract method.
 -This class extends Queue trait and implements enqueue method such that it adds square of the element to be inserted in the queue.
 
 **QueueTester**
--This scala objectuswd to check functionalities of DoubleQueue and SquareQue
+-This scala object is used to check functionalities of DoubleQueue and SquareQue
 
 ***QueueTest***
 -This is a test class which makes use of AnyFlatSpec style of ScalaTest
