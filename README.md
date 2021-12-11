@@ -3,10 +3,8 @@
 
 **Queue**
 This trait has one abstract method and one method.
-
-  -enQueue
-
-  -deQueue --> it has concrete implementation which returns the dequeued element.
+  - enQueue
+  - deQueue --> it has concrete implementation which returns the dequeued element.
 
 **DoubleQueue**
 -This class extends Queue trait and implements enqueue method such that it adds double of the element to be inserted in the queue.
