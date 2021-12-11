@@ -2,9 +2,11 @@
 ## This project is a modified implementation of Queue Using ListBuffer. It has two classes, one Trait and one Object.
 
 **Queue**
-This trait has one method and one abstract method.
--enQueue
--deQueue --> it has concrete implementation which returns the dequeued element.
+This trait has one abstract method and one method.
+
+  -enQueue
+
+  -deQueue --> it has concrete implementation which returns the dequeued element.
 
 **DoubleQueue**
 -This class extends Queue trait and implements enqueue method such that it adds double of the element to be inserted in the queue.
